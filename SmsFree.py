@@ -13,7 +13,7 @@ ut = '\033[1;34m' # ungu tua
 os.system('clear')
 print(f'{b}Subscribe {p}Dulu {b}Chanell {p}Ainkk-!!')
 time.sleep(10./100)
-os.system('xdg-open  https://youtube.com/channel/UC0Q1j_f-OnAAw19nIO0TP-A')
+os.system('xdg-open  https://m.youtube.com/channel/UC0Q1j_f-OnAAw19nIO0TP-A')
 time.sleep(4)
 
 
