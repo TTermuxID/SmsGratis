@@ -8,11 +8,11 @@
 <p align="center">
  
 ### menu
- <img src="https://github.com/TTermuxID/SmsGratis/carbon.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/TTermuxID/SmsGratis/blob/main/carbon.png" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Results
- <img src="https://github.com/TTermuxID/SmsGratis/hasil.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/TTermuxID/SmsGratis/blob/main/hasil.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Install script on Termux
